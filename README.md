@@ -53,6 +53,21 @@
 
 <br/>
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/harshitsahu2311/github-readme-stats"><img alt="HARSHIT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshitsahu2311&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/harshitsahu2311/github-readme-stats"><img alt="HARSHIT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsahu2311&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/nagesh-pawar-709b49209" target="_blank"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="50px"></a>
