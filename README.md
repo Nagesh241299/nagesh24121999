@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Harshit%20Sahu%20👋;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Nagesh%20Pawar%20👋;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 
 </p>
 <h3 align="center">I'm currently learning DEVOPS <img src="https://cdn.pixabay.com/photo/2018/04/18/18/56/cloud-3331240_1280.png" width="30px"> </h3>
@@ -15,9 +15,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://linktr.ee/harshitsahu2311)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://linktr.ee/harshitPawar2311)**
 
-- 📫 How to reach me **harshitsahu2022@gmail.com**
+- 📫 How to reach me **harshitPawar2022@gmail.com**
 
 - ⚡ Fun fact **I am funny guy**
 
@@ -35,8 +35,8 @@
 <br/>
 
 <p align="left">
-    <a href="https://github.com/harshitsahu2311/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HARSHIT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsahu2311&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/harshitSahu2311/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HARSHIT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitSahu2311&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -44,10 +44,10 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/harshitsahu2311"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="50px"></img></a>
+<a href="https://linkedin.com/in/harshitSahu2311"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="50px"></img></a>
 <a href="https://youtube.com/@devopsenthusiast-23"><img src="https://www.freeiconspng.com/thumbs/youtube-icon/video-youtube-icon--14.png" height="50px"></img></a>
-<a href="https://github.com/harshitsahu2311/"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="50px"></img></a>
-<a href="https://hashnode.com/@harshit2311" target="blank"><img src="https://github.com/harshitsahu2311/harshitsahu2311/blob/main/hashnode-icon-pngrepo-com.png" height="40px" /></a>
+<a href="https://github.com/harshitSahu2311/"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="50px"></img></a>
+<a href="https://hashnode.com/@harshit2311" target="blank"><img src="https://github.com/harshitSahu2311/harshitSahu2311/blob/main/hashnode-icon-pngrepo-com.png" height="40px" /></a>
 
 
 
@@ -55,7 +55,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/harshitsahu2311/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=harshitsahu2311">
+<a href="https://github.com/harshitSahu2311/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=harshitSahu2311">
 </a>
-<a href="https://github.com/harshitsahu2311?tab=followers"><img src="https://img.shields.io/github/followers/harshitsahu2311?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/harshitSahu2311?tab=followers"><img src="https://img.shields.io/github/followers/harshitSahu2311?label=Followers&style=social" alt="GitHub Badge"></a>
